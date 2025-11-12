@@ -1,0 +1,64 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "05-548-2947",
+  "taxFormId" : "4030135",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0415905",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Mitchell, Douglas and Herman"
+    },
+    "address" : {
+      "line1" : "817 Gaylord Hollow",
+      "city" : "Lake Xeniatown",
+      "region" : "GA",
+      "postalCode" : "85012"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "santiago.heller@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-95-6553",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Gilma",
+      "last" : "Romaguera"
+    },
+    "address" : {
+      "line1" : "53908 Fritsch Inlet",
+      "city" : "Candaceburgh",
+      "region" : "MS",
+      "postalCode" : "43693"
+    },
+    "email" : "antoine.raynor@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "989-44177-3",
+  "iraContributions" : 200,
+  "rolloverContributions" : 300,
+  "rothIraConversion" : 400,
+  "recharacterizedContributions" : 500,
+  "fairMarketValue" : 600,
+  "lifeInsuranceCost" : 700,
+  "ira" : true,
+  "sep" : true,
+  "simple" : true,
+  "rothIra" : true,
+  "sepContributions" : 800,
+  "simpleContributions" : 900,
+  "rothIraContributions" : 1000,
+  "rmdNextYear" : true,
+  "rmdDate" : "2025-02-07",
+  "rmdAmount" : 1100,
+  "postponedContribution" : 1200,
+  "postponedYear" : 1300,
+  "postponedCode" : "postponedCode",
+  "repayments" : 1400,
+  "repayCode" : "repayCode",
+  "fmvSpecifiedAssets" : 1500,
+  "specifiedCodes" : "specifiedCodes"
+}
