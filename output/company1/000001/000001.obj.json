@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "08-250-9295",
+  "taxFormId" : "3070735",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0355811",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Batz, Spinka and Cronin"
+    },
+    "address" : {
+      "line1" : "7250 Noah Mission",
+      "city" : "Crooksport",
+      "region" : "KY",
+      "postalCode" : "01049",
+      "unitType" : "Apt",
+      "unitNumber" : "426"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "shirley.bayer@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-74-8891",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Bryce",
+      "middle" : "Sharyn",
+      "last" : "Waelchi"
+    },
+    "businessName" : {
+      "name1" : "Williamson, Dickinson and Wolff"
+    },
+    "address" : {
+      "line1" : "8828 Tromp Grove",
+      "city" : "Albertotown",
+      "region" : "WV",
+      "postalCode" : "92110",
+      "unitType" : "Apt",
+      "unitNumber" : "355"
+    },
+    "email" : "tobi.corwin@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "655-72901-9",
+  "iraContributions" : 200,
+  "rolloverContributions" : 300,
+  "rothIraConversion" : 400,
+  "recharacterizedContributions" : 500,
+  "fairMarketValue" : 600,
+  "lifeInsuranceCost" : 700,
+  "ira" : true,
+  "sep" : true,
+  "simple" : true,
+  "rothIra" : true,
+  "sepContributions" : 800,
+  "simpleContributions" : 900,
+  "rothIraContributions" : 1000,
+  "rmdNextYear" : true,
+  "rmdDate" : "2026-04-14",
+  "rmdAmount" : 1100,
+  "postponedContribution" : 1200,
+  "postponedYear" : 1300,
+  "postponedCode" : "FD",
+  "repayments" : 1400,
+  "repayCode" : "DD",
+  "fmvSpecifiedAssets" : 1500,
+  "specifiedCodes" : "A"
+}

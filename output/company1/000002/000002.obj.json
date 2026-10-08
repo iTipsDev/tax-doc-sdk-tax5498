@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "40-517-3805",
+  "taxFormId" : "1994731",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0355811",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Batz, Spinka and Cronin"
+    },
+    "address" : {
+      "line1" : "7250 Noah Mission",
+      "city" : "Crooksport",
+      "region" : "KY",
+      "postalCode" : "01049",
+      "unitType" : "Apt",
+      "unitNumber" : "426"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "shirley.bayer@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-86-5579",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Mariko",
+      "middle" : "Blair",
+      "last" : "Schuppe"
+    },
+    "businessName" : {
+      "name1" : "Cormier and Sons"
+    },
+    "address" : {
+      "line1" : "152 McCullough Harbor",
+      "city" : "Deshawnport",
+      "region" : "LA",
+      "postalCode" : "17257",
+      "unitType" : "Apt",
+      "unitNumber" : "854"
+    },
+    "email" : "julene.stark@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "693-32356-3",
+  "iraContributions" : 200,
+  "rolloverContributions" : 300,
+  "rothIraConversion" : 400,
+  "recharacterizedContributions" : 500,
+  "fairMarketValue" : 600,
+  "lifeInsuranceCost" : 700,
+  "ira" : true,
+  "sep" : true,
+  "simple" : true,
+  "rothIra" : true,
+  "sepContributions" : 800,
+  "simpleContributions" : 900,
+  "rothIraContributions" : 1000,
+  "rmdNextYear" : true,
+  "rmdDate" : "2026-01-19",
+  "rmdAmount" : 1100,
+  "postponedContribution" : 1200,
+  "postponedYear" : 1300,
+  "postponedCode" : "FD",
+  "repayments" : 1400,
+  "repayCode" : "DD",
+  "fmvSpecifiedAssets" : 1500,
+  "specifiedCodes" : "A"
+}
